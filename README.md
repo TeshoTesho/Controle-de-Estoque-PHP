@@ -5,6 +5,7 @@ Desenvolvido por: Nicolas Leite Araujo (TeshoTesho)
 http://nicolasleitearaujo.online
 
 ## Instalação
-Crie um banco de dados (usado pelo sistema: "db_estoque")
+Crie um banco de dados (usado pelo sistema: "**db_estoque**")
 E faça a instalação do arquivo db_estoque dentro do banco para importar as tabelas e produtos já cadastrados. 
 
+Alterar as informações no arquivo **conn.php** com o acesso ao banco.

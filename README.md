@@ -3,6 +3,7 @@ Sistema de estoque desenvolvido em PHP 7.1 e Mysql 5.7.24.
 
 Desenvolvido por: Nicolas Leite Araujo (TeshoTesho)
 http://nicolasleitearaujo.online
+
 Disponível em: http://estoque.nicolasleitearaujo.online
 ## Instalação
 Crie um banco de dados (usado pelo sistema: "**db_estoque**")
